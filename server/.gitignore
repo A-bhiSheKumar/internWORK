@@ -1,0 +1,74 @@
+# Dependency directories
+node_modules/
+
+# Environment files
+.env
+
+# Log files
+logs
+*.log
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+
+# Mac specific files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# npm debug log
+npm-debug.log*
+
+# Yarn integrity file
+.yarn-integrity
+
+# OS generated files
+Desktop.ini
+.DS_Store?
+ehthumbs.db
+Thumbs.db
+
+# Visual Studio Code directories
+.vscode/
+
+# macOS folder attributes
+.AppleDouble
+.DS_Store
+
+# npm
+npm-debug.log*
+
+# Yarn
+yarn-error.log
+
+# ESLint
+.eslintcache
+
+# Prettier
+.prettiercache
+
+# build output
+/build
+/out
+
+# Next.js build output
+.next/
+out/
+
+# Nuxt.js build output
+.nuxt/
+
+# Nest.js build output
+/dist/
+
+# Yarn 2
+.pnp.*
+.yarn/*
+!/.yarn/releases
+!/.yarn/plugins
+!/.yarn/sdks
+
+# Node.js Debug folder
+.debug/
